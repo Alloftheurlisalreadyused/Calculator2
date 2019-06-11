@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator2</string>
+    <string name="operator">Choose an operator</string>
+    <string name="Div_zero_err">Can\'t divide by zero</string>
+    
+    <string-array name="operators">
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Multiply</item>
+        <item>Divide</item>
+    </string-array>
+    
+</resources>
